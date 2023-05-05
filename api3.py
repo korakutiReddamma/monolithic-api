@@ -13,7 +13,7 @@ def get_db():
         db = g._database = mysql.connector.connect(
             host='localhost',
             user='root',
-            password='Reddy70@',
+            password='*****',
             database='webapidb'
         )
     return db

@@ -7,7 +7,7 @@ app = Flask(__name__)
 DATABASE = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'Reddy70@',
+    'password': '*****',
     'database': 'webapidb',
     'port': 3306  # or any other valid port number
 }
